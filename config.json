@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-web-server",
+      "title": "Simple Python Web Server",
+      "description": "Build a basic web server using Python's standard library and serve HTML and JSON.",
+      "path": "assignments/python-web-server",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
